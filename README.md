@@ -1,6 +1,6 @@
 <!--- app-name: Apache Spark -->
 
-# Apache Spark packaged by Bitnami
+# Apache Spark 
 
 Apache Spark is a high-performance engine for large-scale computing tasks, such as data processing, machine learning and real-time data streaming. It includes APIs for Java, Python, Scala and R.
 
@@ -470,7 +470,6 @@ This version standardizes the way of defining Ingress rules. When configuring a 
 
 ## License
 
-Copyright &copy; 2022 Bitnami
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
